@@ -1,0 +1,110 @@
+[
+  {
+    "No": "No.851",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>I need to leave <u>right away</u> to catch the last train.",
+    "Choice": [
+      "at hand",
+      "at last",
+      "at least",
+      "at once"
+    ],
+    "Anser": "at once",
+    "Japanese": "最終列車に間に合うために，私はすぐにここを出る必要がある。<br>"
+  },
+  {
+    "No": "No.852",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>I see my grandparents <u>every now and then</u>.",
+    "Choice": [
+      "often",
+      "regularly",
+      "usually",
+      "occasionally"
+    ],
+    "Anser": "occasionally",
+    "Japanese": "私はときどき祖父母に会う。<br>"
+  },
+  {
+    "No": "No.853",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>After his retirement, Mike has worked <u>on and off</u> as a freelance proofreader for a publisher.",
+    "Choice": [
+      "hard",
+      "again",
+      "occasionally",
+      "continuously"
+    ],
+    "Anser": "occasionally",
+    "Japanese": "退職後，マイクはときどき出版社のためにフリーの校正者として働いている。<br>"
+  },
+  {
+    "No": "No.854",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：What do you think about her term paper? <br>B：(　　　　) and large it’s good.",
+    "Choice": [
+      "In",
+      "By",
+      "On",
+      "As"
+    ],
+    "Anser": "By",
+    "Japanese": "A：彼女の期末レポートについてどう思う？<br>B：全体として，よく書けていますよ。<br>"
+  },
+  {
+    "No": "No.855",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I still don’t understand the political system in the United Kingdom, (　　　　) alone the economic structure of the nation.",
+    "Choice": [
+      "but",
+      "let",
+      "not",
+      "only"
+    ],
+    "Anser": "let",
+    "Japanese": "私はいまだにイギリスの政治制度が理解できず，ましてや経済構造などなおさらだ。<br>"
+  },
+  {
+    "No": "No.856",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>(　　　　) only two people have signed up for the school trip to London.",
+    "Choice": [
+      "Other than",
+      "Except for",
+      "Aside from",
+      "So far"
+    ],
+    "Anser": "So far",
+    "Japanese": "今のところ，2人しかロンドンへの修学旅行に申し込んでいない。<br>"
+  },
+  {
+    "No": "No.857",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>(　　　　) with this and that I have no time for friends.",
+    "Choice": [
+      "Due",
+      "Since",
+      "What",
+      "Thanks"
+    ],
+    "Anser": "What",
+    "Japanese": "あれやこれやで忙しく，私は友だちと過ごす時間がない。<br>"
+  },
+  {
+    "No": "No.858",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>(　　　　), this restaurant is closed on Sundays.",
+    "Choice": [
+      "Much often as not",
+      "Very often as not",
+      "More often than not",
+      "Least often than not"
+    ],
+    "Anser": "More often than not",
+    "Japanese": "たいてい，このレストランは日曜日には閉まっている。<br>"
+  },
+  {
+    "No": "No.859",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>このシステムなら，パスワードが盗まれることはほぼありえません。<br>It is (　　　　) impossible to crack passwords using this system.",
+    "Choice": [
+      "most to",
+      "only to",
+      "just to",
+      "next to"
+    ],
+    "Anser": "next to",
+    "Japanese": "このシステムなら，パスワードが盗まれることはほぼありえません。<br>"
+  }
+]

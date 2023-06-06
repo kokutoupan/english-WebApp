@@ -1,0 +1,494 @@
+[
+  {
+    "No": "No.860",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I suppose she was (　　　　) since she didn’t stop to talk to anyone.",
+    "Choice": [
+      "hurry it up",
+      "in a hurry",
+      "hurry",
+      "hurry up"
+    ],
+    "Anser": "in a hurry",
+    "Japanese": "彼女は急いでいたのではないかと思う。誰かと話をするために立ち止まらなかったので。<br>"
+  },
+  {
+    "No": "No.861",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br><u>Once in a while</u> we eat out.",
+    "Choice": [
+      "Sometimes",
+      "Usually",
+      "Probably",
+      "Somehow"
+    ],
+    "Anser": "Sometimes",
+    "Japanese": "ときどき私たちは外食をする。<br>"
+  },
+  {
+    "No": "No.862",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I hope Tom’s broken arm will heal (　　　　) time for the festival.",
+    "Choice": [
+      "at",
+      "by",
+      "in",
+      "on"
+    ],
+    "Anser": "in",
+    "Japanese": "トムの骨折した腕が，そのお祭りに間に合うように治ってほしいと思う。<br>"
+  },
+  {
+    "No": "No.863",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>Their friendship grew into love <u>by degrees</u>.",
+    "Choice": [
+      "carefully",
+      "equally",
+      "gradually",
+      "suddenly"
+    ],
+    "Anser": "gradually",
+    "Japanese": "彼らの友情は，次第に愛へと育っていった。<br>"
+  },
+  {
+    "No": "No.864",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>He was able to meet an online friend (　　　　).",
+    "Choice": [
+      "in person",
+      "of person",
+      "to himself",
+      "for real time"
+    ],
+    "Anser": "in person",
+    "Japanese": "彼は，ネット友だちと直接会うことができた。<br>"
+  },
+  {
+    "No": "No.865",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>Can I have your name and phone number just (　　　　)?",
+    "Choice": [
+      "of sure",
+      "in case",
+      "to say",
+      "with care"
+    ],
+    "Anser": "in case",
+    "Japanese": "念のため，あなたのお名前と電話番号を教えてもらえますか。<br>"
+  },
+  {
+    "No": "No.866",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>Mr. Smith is clever, hard-working and <u>above all</u>, a good leader.",
+    "Choice": [
+      "eventually",
+      "highly popular",
+      "most importantly",
+      "to our surprise"
+    ],
+    "Anser": "most importantly",
+    "Japanese": "スミスさんは聡明で，勤勉で，何よりも優秀なリーダーだ。<br>"
+  },
+  {
+    "No": "No.867",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>New construction is <u>under way</u> for the East Highway extension.",
+    "Choice": [
+      "hitting setbacks",
+      "behind schedule",
+      "in progress",
+      "near completion"
+    ],
+    "Anser": "in progress",
+    "Japanese": "イースト・ハイウェイの延長のため，新たな建設工事が進行中だ。<br>"
+  },
+  {
+    "No": "No.868",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>If you cannot come to the party, please let us know (　　　　).",
+    "Choice": [
+      "as if",
+      "as of",
+      "in advance",
+      "as well as"
+    ],
+    "Anser": "in advance",
+    "Japanese": "もしパーティーに来られなければ，事前に私たちに知らせてください。<br>"
+  },
+  {
+    "No": "No.869",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I got this job (　　　　) chance.",
+    "Choice": [
+      "by",
+      "in",
+      "at",
+      "to"
+    ],
+    "Anser": "by",
+    "Japanese": "私はこの仕事をたまたま手に入れた。<br>"
+  },
+  {
+    "No": "No.870",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>I was fortunate to have interviewed him <u>at length</u> twice.",
+    "Choice": [
+      "at last",
+      "for a long time",
+      "once upon a time",
+      "sometimes"
+    ],
+    "Anser": "for a long time",
+    "Japanese": "私は彼を長時間，2回にわたってインタビューできて，ついていた。<br>"
+  },
+  {
+    "No": "No.871",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>I think she did not answer the question <u>on purpose</u> to annoy me.",
+    "Choice": [
+      "intentionally",
+      "sadly",
+      "finally",
+      "successfully"
+    ],
+    "Anser": "intentionally",
+    "Japanese": "私は彼女が私を困らせるために，わざとその質問に答えなかったのだと思う。<br>"
+  },
+  {
+    "No": "No.872",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>After trying many times, Stan has finally quit smoking for (　　　　).",
+    "Choice": [
+      "long",
+      "good",
+      "fine",
+      "large"
+    ],
+    "Anser": "good",
+    "Japanese": "何度も挑戦した後でようやく，スタンはすっかりタバコをやめた。<br>"
+  },
+  {
+    "No": "No.873",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>John took someone’s umbrella (　　　　) mistake since it looked similar to his own.",
+    "Choice": [
+      "by",
+      "with",
+      "in",
+      "at"
+    ],
+    "Anser": "by",
+    "Japanese": "ジョンが誰かの傘を間違って持ってきてしまったのは，それが彼のものと似ていたからだった。<br>"
+  },
+  {
+    "No": "No.874",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>Jim was upset when he heard that his friends were speaking ill of him (　　　　).",
+    "Choice": [
+      "before his face",
+      "above the head",
+      "behind his back",
+      "on the other hand"
+    ],
+    "Anser": "behind his back",
+    "Japanese": "ジムは，彼の友だちが陰で自分の悪口を言っていると聞いて腹を立てた。<br>"
+  },
+  {
+    "No": "No.875",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>All the members helped one another to clean the meeting room <u>in no time</u>.",
+    "Choice": [
+      "quickly",
+      "timely",
+      "in the end",
+      "for a while"
+    ],
+    "Anser": "quickly",
+    "Japanese": "すべてのメンバーが，お互いに協力し合って会議室をすぐに片づけた。<br>"
+  },
+  {
+    "No": "No.876",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br><u>As a rule</u>, our children go to bed before 9:00 every night.",
+    "Choice": [
+      "Consequently",
+      "Constantly",
+      "Rarely",
+      "Usually"
+    ],
+    "Anser": "Usually",
+    "Japanese": "普通，うちの子どもたちは毎晩9時前にベッドに入る。<br>"
+  },
+  {
+    "No": "No.877",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>This elevator is (　　　　). Please use the other one instead.",
+    "Choice": [
+      "out of place",
+      "out of order",
+      "out of danger",
+      "out of work"
+    ],
+    "Anser": "out of order",
+    "Japanese": "このエレベータは故障しています。代わりに別の方を使ってください。<br>"
+  },
+  {
+    "No": "No.878",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>The members are determined to complete the project (　　　　) all costs.",
+    "Choice": [
+      "at",
+      "with",
+      "for",
+      "in"
+    ],
+    "Anser": "at",
+    "Japanese": "メンバーたちは，何としてでもそのプロジェクトを終わらせようと固く決意している。<br>"
+  },
+  {
+    "No": "No.879",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br><u>All at once</u> my car stopped in front of the bus stop.",
+    "Choice": [
+      "Suddenly",
+      "Actually",
+      "Slowly",
+      "Hardly"
+    ],
+    "Anser": "Suddenly",
+    "Japanese": "突然，私の車はバス停の前で止まった。<br>"
+  },
+  {
+    "No": "No.880",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>Everything is probably all right. <u>All the same</u>, I had better go and make sure.",
+    "Choice": [
+      "And",
+      "Besides",
+      "For",
+      "Nevertheless"
+    ],
+    "Anser": "Nevertheless",
+    "Japanese": "おそらく，すべて順調だ。それでも，私が確かめに行った方がいい。<br>"
+  },
+  {
+    "No": "No.881",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>Have you seen Masa today by any (　　　　)?",
+    "Choice": [
+      "opportunity",
+      "chance",
+      "way",
+      "time"
+    ],
+    "Anser": "chance",
+    "Japanese": "もしかして，あなたは今日，マサを見かけましたか。<br>"
+  },
+  {
+    "No": "No.882",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>It was impossible for Mika to carry the table on (　　　　), so Taichi helped her.",
+    "Choice": [
+      "her",
+      "herself",
+      "her own",
+      "hers"
+    ],
+    "Anser": "her own",
+    "Japanese": "ミカはそのテーブルを自分だけで運ぶことができなかったので，タイチが彼女を手伝った。<br>"
+  },
+  {
+    "No": "No.883",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>When it comes to baseball, he is (　　　　) to none.",
+    "Choice": [
+      "second",
+      "first",
+      "best",
+      "worst"
+    ],
+    "Anser": "second",
+    "Japanese": "野球のこととなると，彼にかなう者はいない。<br>"
+  },
+  {
+    "No": "No.884",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I saw immediately that she was ill at (　　　　).",
+    "Choice": [
+      "ease",
+      "large",
+      "odds",
+      "peace"
+    ],
+    "Anser": "ease",
+    "Japanese": "私には，彼女が落ち着かない気持ちであることがすぐにわかった。<br>"
+  },
+  {
+    "No": "No.885",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>The teacher understood the situation at (　　　　)  and quickly solved the problem.",
+    "Choice": [
+      "an end",
+      "a glance",
+      "a loss",
+      "a time"
+    ],
+    "Anser": "a glance",
+    "Japanese": "その先生は一目で状況を理解し，素早く問題を解決した。<br>"
+  },
+  {
+    "No": "No.886",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>He answered the question <u>on the spot</u>.",
+    "Choice": [
+      "accurately",
+      "carefully",
+      "correctly",
+      "immediately"
+    ],
+    "Anser": "immediately",
+    "Japanese": "彼は，すぐにその質問に答えた。<br>"
+  },
+  {
+    "No": "No.887",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>We ran into a little bit of traffic on the way here, but (　　　　) the whole, the trip was pretty uneventful.",
+    "Choice": [
+      "at",
+      "in",
+      "on",
+      "to"
+    ],
+    "Anser": "on",
+    "Japanese": "私たちは，ここに来るまでに少しばかり渋滞にはまったが，全体として，この旅はずいぶん平穏無事だった。<br>"
+  },
+  {
+    "No": "No.888",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>I will leave this town for the time (　　　　).",
+    "Choice": [
+      "being",
+      "doing",
+      "ever",
+      "on"
+    ],
+    "Anser": "being",
+    "Japanese": "私は，この町を当分の間，離れるつもりだ。<br>"
+  },
+  {
+    "No": "No.889",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>Although the supermarket has lost some customers recently, closing down is <u>out of the question</u>.",
+    "Choice": [
+      "best for everyone",
+      "not possible",
+      "quite a mystery",
+      "open for debate"
+    ],
+    "Anser": "not possible",
+    "Japanese": "そのスーパーマーケットは最近，一部のお客を失ったが，閉店することはありえない。<br>"
+  },
+  {
+    "No": "No.890",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>You should be careful when you drive in other countries since the steering wheel and the traffic lanes can be (　　　　).",
+    "Choice": [
+      "inside out",
+      "one way or another",
+      "out of place",
+      "the other way around"
+    ],
+    "Anser": "the other way around",
+    "Japanese": "外国で車を運転するときは注意すべきです。車のハンドルや走行車線が逆の場合があるからです。<br>"
+  },
+  {
+    "No": "No.891",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br><u>In the long run</u>, things will work out. You shouldn’t worry too much about everything happening now.",
+    "Choice": [
+      "Quickly",
+      "Precisely",
+      "Eventually",
+      "Smoothly"
+    ],
+    "Anser": "Eventually",
+    "Japanese": "長い目で見れば，事はうまく運ぶでしょう。あなたは今起きていることの一部始終を気にしすぎるべきではありません。<br>"
+  },
+  {
+    "No": "No.892",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>(　　　　) time to time, careless guests leave their valuables behind when they check out. Our hotel holds onto them for up to six months.",
+    "Choice": [
+      "In",
+      "On",
+      "From",
+      "At"
+    ],
+    "Anser": "From",
+    "Japanese": "ときどき，チェックアウトするときに，うっかりしたお客様が貴重品を忘れていかれます。当ホテルでは，6カ月までそれを保管いたします。<br>"
+  },
+  {
+    "No": "No.893",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>My brother and I were not very close. I have not heard from him for several years but he visited me this morning (　　　　).",
+    "Choice": [
+      "as usual",
+      "out of the blue",
+      "up to his promise",
+      "without a pause"
+    ],
+    "Anser": "out of the blue",
+    "Japanese": "兄［弟］と私は，あまり親しくはなかった。私は彼から数年間も連絡をもらっていなかったが，彼は今朝，思いがけなく私を訪ねてきた。<br>"
+  },
+  {
+    "No": "No.894",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：“How many people will be coming to the party?” <br>B：“I haven’t heard back from everyone yet, so it’s still (　　　　).”",
+    "Choice": [
+      "no idea",
+      "on the way",
+      "to notice",
+      "up in the air"
+    ],
+    "Anser": "up in the air",
+    "Japanese": "A：「パーティーには何人くらいやって来るのですか」<br>B：「まだ全員から返事をもらっていないので，はっきりしません」<br>"
+  },
+  {
+    "No": "No.895",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>Did he say for (　　　　) whether he is coming to the party?",
+    "Choice": [
+      "sure",
+      "safe",
+      "secure",
+      "serious"
+    ],
+    "Anser": "sure",
+    "Japanese": "彼は，パーティーに来るつもりかどうか，はっきり答えましたか。<br>"
+  },
+  {
+    "No": "No.896",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>Winter vacation is <u>around the corner</u>.",
+    "Choice": [
+      "boring",
+      "enjoyable",
+      "very near",
+      "far away"
+    ],
+    "Anser": "very near",
+    "Japanese": "冬休みが間近に迫っている。<br>"
+  },
+  {
+    "No": "No.897",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>Because of the heavy snowfall, the train arrived at the station behind (　　　　).",
+    "Choice": [
+      "program",
+      "plan",
+      "schedule",
+      "timetable"
+    ],
+    "Anser": "schedule",
+    "Japanese": "大雪のため，列車は予定よりも遅れて駅に到着した。<br>"
+  },
+  {
+    "No": "No.898",
+    "Question": "下線の引かれている語（句）に最も近い意味の単語を，1～4から選びなさい。<br>The politician had to resign <u>of his own accord</u>, as he received a bribe.",
+    "Choice": [
+      "ashamedly",
+      "definitely",
+      "passively",
+      "voluntarily"
+    ],
+    "Anser": "voluntarily",
+    "Japanese": "その政治家は自ら辞職しなければならなかった。彼が賄賂を受け取ったからだ。<br>"
+  },
+  {
+    "No": "No.899",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>She came (　　　　) from Paris to attend the meeting.",
+    "Choice": [
+      "as far",
+      "as near",
+      "all in all",
+      "all the way"
+    ],
+    "Anser": "all the way",
+    "Japanese": "彼女は，その会議に参加するために，はるばるパリから来た。<br>"
+  },
+  {
+    "No": "No.900",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>His steady research will (　　　　) fruit in due time.",
+    "Choice": [
+      "hang",
+      "bear",
+      "tie",
+      "put"
+    ],
+    "Anser": "bear",
+    "Japanese": "彼のたゆまぬ研究はやがて実を結ぶことだろう。<br>"
+  }
+]

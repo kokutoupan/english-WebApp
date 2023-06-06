@@ -1,0 +1,170 @@
+[
+  {
+    "No": "No.965",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：(　　　　). What have you been doing? <br>B:I’ve been studying abroad.",
+    "Choice": [
+      "It’s been a long time",
+      "It’s my fault",
+      "It sounds like a great idea",
+      "It’s kind of you"
+    ],
+    "Anser": "It’s been a long time",
+    "Japanese": "A：久しぶりですね。どうしていましたか。<br>B：私は留学していたんです。<br>"
+  },
+  {
+    "No": "No.966",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：I’d better get going. Please (　　　　) to your family. <br>B:Sure. I will.",
+    "Choice": [
+      "say hello",
+      "get my regard",
+      "be reminded",
+      "ask me anything"
+    ],
+    "Anser": "say hello",
+    "Japanese": "A：もうおいとましなければなりません。ご家族の皆様によろしくお伝えください。<br>B：もちろん。そうします。<br>"
+  },
+  {
+    "No": "No.967",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：What do you want to eat for lunch? <br>B:(　　　　) going to the Italian restaurant near the station? It’s so popular.",
+    "Choice": [
+      "How come",
+      "How about",
+      "How are you",
+      "How long is it"
+    ],
+    "Anser": "How about",
+    "Japanese": "A：ランチには何を食べたいですか。<br>B：駅の近くにあるイタリアンレストランに行くのはどうですか。そこはとても人気があるんです。<br>"
+  },
+  {
+    "No": "No.968",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：I think that’s a good shirt for you. (　　　　) else? <br>B:No, that’s all.",
+    "Choice": [
+      "Anything",
+      "Everything",
+      "Something",
+      "Nothing"
+    ],
+    "Anser": "Anything",
+    "Japanese": "A：それはお客様にお似合いのシャツだと思います。ほかにはよろしいですか。<br>B：はい，それだけです。<br>"
+  },
+  {
+    "No": "No.969",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：(　　　　) something to drink? <br>B:Thank you. I’ll have a glass of orange juice.",
+    "Choice": [
+      "Can I get you",
+      "May I have",
+      "Would you give me",
+      "Shall I drink"
+    ],
+    "Anser": "Can I get you",
+    "Japanese": "A：あなたに何か飲み物を持ってきましょうか。<br>B：ありがとう。オレンジジュースをいただきます。<br>"
+  },
+  {
+    "No": "No.970",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：I can help you after I finish this job. <br>B:(　　　　). Please let me know when you have finished it.",
+    "Choice": [
+      "I’m so sorry to hear that",
+      "I’ll let you off this time",
+      "I have nothing to do today",
+      "I appreciate it"
+    ],
+    "Anser": "I appreciate it",
+    "Japanese": "A：この仕事を終えた後だったら，あなたを手伝うことができます。<br>B：それはありがたいです。それが終わったら知らせてください。<br>"
+  },
+  {
+    "No": "No.971",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：I think I’ve finished my task. <br>B:(　　　　). Without your help, I couldn’t have finished it on time.",
+    "Choice": [
+      "Thank you for your time",
+      "Don’t mention it",
+      "It’s a piece of cake",
+      "Don’t work at a snail’s pace"
+    ],
+    "Anser": "Thank you for your time",
+    "Japanese": "A：私の担当の仕事は終わったと思います。<br>B：お時間をいただきありがとうございました。あなたの手助けがなかったら，私は時間通りにそれを終えられませんでした。<br>"
+  },
+  {
+    "No": "No.972",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：Can you tell me a little more about the plan? <br>B:Thank you (　　　　). I’ll explain it in detail.",
+    "Choice": [
+      "asking",
+      "to ask",
+      "for asking",
+      "ask me"
+    ],
+    "Anser": "for asking",
+    "Japanese": "A：その計画について，もう少し教えてもらえますか。<br>B：ご質問いただきありがとうございます。詳しく説明しましょう。<br>"
+  },
+  {
+    "No": "No.973",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：I would like to meet Mr. Suzuki. <br>B:Sorry, but he is (　　　　).",
+    "Choice": [
+      "back just now",
+      "out now",
+      "here for hours",
+      "there for some time"
+    ],
+    "Anser": "out now",
+    "Japanese": "A：鈴木さんとお会いしたいのですが。<br>B：申し訳ありませんが，彼はただいま外出中です。<br>"
+  },
+  {
+    "No": "No.974",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：Can I eat the last piece of cake? <br>B:(　　　　). I’m so full.",
+    "Choice": [
+      "No kidding",
+      "Go ahead",
+      "Maybe not",
+      "I can’t"
+    ],
+    "Anser": "Go ahead",
+    "Japanese": "A：最後に残ったケーキを食べてもいいですか。<br>B：どうぞ。私はとてもお腹いっぱいです。<br>"
+  },
+  {
+    "No": "No.975",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：Why don’t we go to see a movie next Sunday? <br>B:(　　　　)? I’m free this weekend.",
+    "Choice": [
+      "What for",
+      "Like when",
+      "How could you",
+      "Why not"
+    ],
+    "Anser": "Why not",
+    "Japanese": "A：次の日曜日に映画を見に行きませんか。<br>B：いいですね。今週末は時間が空いています。<br>"
+  },
+  {
+    "No": "No.976",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：(　　　　) make a hotel reservation. <br>B:Sure. I’ll do that after lunch.",
+    "Choice": [
+      "I might",
+      "I’d like to",
+      "I’d like you to",
+      "I hope you to"
+    ],
+    "Anser": "I’d like you to",
+    "Japanese": "A：ホテルの予約をしてもらいたいのですが。<br>B：わかりました。それはランチの後にいたします。<br>"
+  },
+  {
+    "No": "No.977",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：Are you for or against the plan? <br>B:I definitely (　　　　) to it.",
+    "Choice": [
+      "disagree",
+      "deny",
+      "object",
+      "refuse"
+    ],
+    "Anser": "object",
+    "Japanese": "A：あなたはその計画に賛成ですか，それとも反対ですか。<br>B：それには絶対反対です。<br>"
+  },
+  {
+    "No": "No.978",
+    "Question": "空所に入れるのに最も適切な語句を，1～4から選びなさい。<br>A：Don’t you think his speech was wonderful? <br>B:(　　　　) I wasn’t very impressed by it. He could have done a better job, considering his skills.",
+    "Choice": [
+      "I’m afraid",
+      "I feel good",
+      "As follows",
+      "It’s fortunate"
+    ],
+    "Anser": "I’m afraid",
+    "Japanese": "A：彼のスピーチは，すばらしかったと思いませんか。<br>B：残念ながら，あまり感銘を受けませんでした。彼の能力を考えると，もっとうまくできたはずです。<br>"
+  }
+]

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>kiri</title>
+
+    <script src="js/main.js" defer></script>
+    <!-- <script src="js/mondai.js" defer></script> -->
+  </head>
+  <body>
+    <button onclick="toggleContents();" id="toggle">change</button>
+
+    <div id="select-contents">
+      <label
+        ><input type="checkbox" onchange="isShuffle=!isShuffle;" checked
+      />isShuffle</label><br>
+    </div>
+    <div id="mondai-contents" hidden></div>
+  </body>
+</html>
