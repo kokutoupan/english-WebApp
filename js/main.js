@@ -5,10 +5,7 @@ const selectDiv = document.getElementById("select-contents");
 
 const numOfAllData = 26;
 
-const groupCheckd = new Array(numOfAllData);
-groupCheckd.forEach((d) => {
-  d = false;
-});
+const groupCheckd = new Array(numOfAllData).fill(false);
 
 let isShuffle = true;
 
@@ -18,7 +15,7 @@ import("./mondai.js").then((module) => {
 });
 
 function toggleContents() {
-  mondaiDiv.hidden = selectDiv.hidden;
+  mondaiDiv.hidden = !mondaiDiv.hidden;
   selectDiv.hidden = !selectDiv.hidden;
 }
 
@@ -51,7 +48,6 @@ function makeMondai(chapter) {
           toggleContents();
           return;
         }
-        // console.log(allData);
         mondai.setChapterData(allData, isShuffle);
       })
       .then(() => {
@@ -70,46 +66,43 @@ function makeMondai(chapter) {
   }
 }
 
-// 起動時の処理
 window.addEventListener("load", () => {
-  for (let i = 1; i <= numOfAllData; i++) {
-    let btn = document.createElement("button");
-    let check = document.createElement("input");
-    check.type = "checkbox";
-    check.value = i - 1;
-    check.onchange = (e) => {
-      //console.log(e);
-      groupCheckd[e.target.value] = e.target.checked;
-    };
-    selectDiv.appendChild(check);
-
-    // ボタンのテキストを設定
-    btn.innerHTML = i + "章";
-    btn.value = i;
-    btn.onclick = (e) => {
-      console.log(e.target.value);
-
-      toggleContents();
-      makeMondai(e.target.value);
-    };
-
-    // ボタンを追加
-    selectDiv.appendChild(btn);
-    selectDiv.appendChild(document.createElement("br"));
-  }
-  let btn = document.createElement("button");
-
-  // ボタンのテキストを設定
-  btn.innerHTML = "グループ";
-  btn.value = "group";
-  btn.onclick = (e) => {
-    // console.log(e.target.value);
-
+  // グループボタンを先に作成
+  let groupBtn = document.createElement("button");
+  groupBtn.innerHTML = "グループ";
+  groupBtn.value = "group";
+  groupBtn.onclick = (e) => {
     toggleContents();
     makeMondai(groupCheckd);
   };
 
-  // ボタンを追加
-  selectDiv.appendChild(btn);
+  selectDiv.appendChild(groupBtn);
   selectDiv.appendChild(document.createElement("br"));
+
+  // 章ごとのボタンとチェックボックスを作成
+  for (let i = 1; i <= numOfAllData; i++) {
+    let check = document.createElement("input");
+    check.type = "checkbox";
+    check.value = i - 1;
+    check.onchange = (e) => {
+      groupCheckd[e.target.value] = e.target.checked;
+    };
+
+    let btn = document.createElement("button");
+    btn.innerHTML = `${i}章`;
+    btn.value = i;
+    btn.onclick = (e) => {
+      toggleContents();
+      makeMondai(e.target.value);
+    };
+
+    // ラジオボタンとボタンをインラインで配置
+    let container = document.createElement("div");
+    container.style.display = "flex";
+    container.style.alignItems = "center";
+    container.appendChild(check);
+    container.appendChild(btn);
+
+    selectDiv.appendChild(container);
+  }
 });

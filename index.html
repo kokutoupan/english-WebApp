@@ -1,20 +1,88 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>kiri</title>
+<head>
+  <meta charset="utf-8" />
+  <title>kiri</title>
+  <script src="js/main.js" defer></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      margin: 0;
+      padding: 20px 0; /* 上下の余白を追加 */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start; /* 上部からスタート */
+      height: 100vh;
+      box-sizing: border-box;
+    }
 
-    <script src="js/main.js" defer></script>
-    <!-- <script src="js/mondai.js" defer></script> -->
-  </head>
-  <body>
-    <button onclick="toggleContents();" id="toggle">change</button>
+    #select-contents, #mondai-contents {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      width: 100%;
+      margin-bottom: 20px; /* コンテンツの間に余白を追加 */
+    }
 
-    <div id="select-contents">
-      <label
-        ><input type="checkbox" onchange="isShuffle=!isShuffle;" checked
-      />isShuffle</label><br>
-    </div>
-    <div id="mondai-contents" hidden></div>
-  </body>
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 5px 10px 5px 0; /* 余白を調整 */
+      transition: background-color 0.3s;
+      display: inline-block;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    label {
+      /* display: flex; */
+      align-items: center;
+      margin: 10px 0;
+    }
+
+    input[type="checkbox"], input[type="radio"] {
+      margin-right: 10px;
+    }
+
+    #mondai-contents p {
+      margin: 10px 0;
+    }
+
+    #mondai-contents div {
+      margin-bottom: 20px;
+    }
+
+    #mondai-contents form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    #mondai-contents form div {
+      margin-bottom: 10px;
+    }
+
+    #mondai-contents form input[type="radio"] {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <button onclick="toggleContents();" id="toggle">Change</button>
+
+  <div id="select-contents">
+    <label><input type="checkbox" onchange="isShuffle=!isShuffle;" checked />isShuffle</label><br>
+  </div>
+  <div id="mondai-contents" hidden></div>
+</body>
 </html>
